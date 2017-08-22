@@ -1,0 +1,10 @@
+{
+    "name": "unstable-cacao/web-utils",
+    "authors": [
+        {
+            "name": "Alexey Puchkov",
+            "email": "alexey.pkv@gmail.com"
+        }
+    ],
+    "require": {}
+}
